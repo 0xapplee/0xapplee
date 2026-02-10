@@ -5,7 +5,7 @@ Independent Smart Contract Security Researcher specializing in Solidity auditing
 🛠 Tools: Foundry, Hardhat, Slither, Echidna  
 
 **Connect with me:**  
-X (Twitter): https://x.com/0xapple_   
+X (Twitter): [0xApple](https://x.com/0xapple_)   
 Sherlock: https://sherlock.xyz/profile/0xapple  
 Email: your.email@example.com
 
