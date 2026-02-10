@@ -2,7 +2,7 @@
 
 Independent Smart Contract Security Researcher specializing in Solidity auditing and DeFi protocol security. I focus on manual code reviews, invariant testing, and identifying high-impact vulnerabilities in real-world smart contract systems. My audit experience spans governance and voting contracts, ERC4626 vaults and yield strategies, cross-chain bridges, staking and rewards distribution mechanisms, AMM and liquidity infrastructure, intent-based execution systems, stablecoin accounting logic, and derivatives protocols. 
 
-🛠 Tools: Foundry, Hardhat, Slither, Mythril, Echidna  
+🛠 Tools: Foundry, Hardhat, Slither, Echidna  
 
 **Connect with me:**  
 X (Twitter): https://x.com/<your-handle>  
