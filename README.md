@@ -7,7 +7,7 @@ Independent Smart Contract Security Researcher specializing in Solidity auditing
 **Connect with me:**  
 X (Twitter): [0xApple](https://x.com/0xapple_)   
 Sherlock: https://sherlock.xyz/profile/0xapple  
-Email: your.email@example.com
+Email: 0xapplee@gmail.com
 
 
 ---
