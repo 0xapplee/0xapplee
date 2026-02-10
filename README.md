@@ -18,9 +18,9 @@ Email: 0xapplee@gmail.com
 
 | # | Date | Protocol Type | Scope (nSLOC) | Findings | Language | Report / Details |
 |---|------|---------------|---------------|----------|----------|-----------------|
-| 1 | Jan 2025 | DeFi Protocol | 1317 | 3 High, 4 Medium, 7 Low | Solidity | Private (NDA) |
-| 2 | Feb 2025 | Staking / Rewards | 1112 | 2 Critical 3 High, 6 Medium, 11 Low| Solidity | Private (NDA) |
-| 3 | Mar 2025 | Vault Strategy | 649 | 1 High, 5 Medium, 4 Low | Solidity | Private (NDA) |
+| 1 | Jan 2026 | DeFi Protocol | 1317 | 3 High, 4 Medium, 7 Low | Solidity | Private (NDA) |
+| 2 | Dec 2025 | Staking / Rewards | 1112 | 2 Critical 3 High, 6 Medium, 11 Low| Solidity | Private (NDA) |
+| 3 | Nov 2025 | Vault Strategy | 649 | 1 High, 5 Medium, 4 Low | Solidity | Private (NDA) |
 
 
 ---
