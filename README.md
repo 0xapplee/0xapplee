@@ -29,15 +29,15 @@ Email: 0xapplee@gmail.com
 
 ## 🕵️ Audit Contests – Findings Overview
 
-| # | Date | Protocol | Category of Protocol | Rank | Vulnerabilities Found | Language | Link to Findings |
-|---|------|----------|----------------------|------|----------------------|----------|-----------------|
-| 1 | July 2025 | Mellow Flexible Vaults | ERC4626 Vaults | [#9](https://audits.sherlock.xyz/contests/964/leaderboard) | [1H](https://audits.sherlock.xyz/contests/964/voting/687) | Solidity | [View Report](https://audits.sherlock.xyz/contests/964) |
-| 2 | Sept 2025 | Ammplify | Liquidity Trees & Routing | [#22](https://audits.sherlock.xyz/contests/1054/leaderboard) |[1H](https://audits.sherlock.xyz/contests/1054/voting/423), 2M([1](https://audits.sherlock.xyz/contests/1054/voting/258), [2](https://audits.sherlock.xyz/contests/1054/voting/261)) | Solidity | [View Report](https://audits.sherlock.xyz/contests/1054) |
-| 3 | August 2025 | Malda | Bridge & Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) |2M([1](https://audits.sherlock.xyz/contests/1029/voting/194), [2](https://audits.sherlock.xyz/contests/1029/voting/294)) | Solidity | [View Report](https://audits.sherlock.xyz/contests/1029) |
-| 4 | July 2025 | Symbiotic Relay | Governance System | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) |[1M](https://audits.sherlock.xyz/contests/967/voting/147) | Solidity | [View Report](https://audits.sherlock.xyz/contests/967) |
-| 5 | June 2025 | DODO Cross-Chain DEX | Cross-Chain Swaps | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) |[1H](https://audits.sherlock.xyz/contests/991/voting/358) | Solidity | [View Report](https://audits.sherlock.xyz/contests/991) |
-| 6 | October 2025 | Summer.fi Governance V2 | Staking & Governance | [#8](https://audits.sherlock.xyz/contests/1176/leaderboard) |[1M](https://audits.sherlock.xyz/contests/1176/voting/137) | Solidity | [View Report](https://audits.sherlock.xyz/contests/1176) |
-| 7 | April 2025 | Aegis YUSD | Stablecoin Protocol | [#4](https://audits.sherlock.xyz/contests/799/leaderboard) |[1H](https://audits.sherlock.xyz/contests/1176/voting/137) | Solidity | [View Report](https://audits.sherlock.xyz/contests/799) |
+| # | Date | Protocol | Category of Protocol | Rank | Vulnerabilities Found | Language | nSloc |Link to Findings |
+|---|------|----------|----------------------|------|----------------------|----------|--------|-----------------|
+| 1 | July 2025 | Mellow Flexible Vaults | ERC4626 Vaults | [#9](https://audits.sherlock.xyz/contests/964/leaderboard) | [1H](https://audits.sherlock.xyz/contests/964/voting/687) | Solidity | 2,756 | [View Report](https://audits.sherlock.xyz/contests/964) |
+| 2 | July 2025 | Symbiotic Relay | Governance System | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) |[1M](https://audits.sherlock.xyz/contests/967/voting/147) | Solidity | 4345 | [View Report](https://audits.sherlock.xyz/contests/967) |
+| 3 | August 2025 | Malda | Bridge & Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) |2M([1](https://audits.sherlock.xyz/contests/1029/voting/194), [2](https://audits.sherlock.xyz/contests/1029/voting/294)) | Solidity | 3,851 |[View Report](https://audits.sherlock.xyz/contests/1029) |
+| 4 | Sept 2025 | Ammplify | Liquidity Trees & Routing | [#22](https://audits.sherlock.xyz/contests/1054/leaderboard) |[1H](https://audits.sherlock.xyz/contests/1054/voting/423), 2M([1](https://audits.sherlock.xyz/contests/1054/voting/258), [2](https://audits.sherlock.xyz/contests/1054/voting/261)) | Solidity | 2,949 | [View Report](https://audits.sherlock.xyz/contests/1054) |
+| 5 | October 2025 | Summer.fi Governance V2 | Staking & Governance | [#8](https://audits.sherlock.xyz/contests/1176/leaderboard) |[1M](https://audits.sherlock.xyz/contests/1176/voting/137) | Solidity | 1,532 | [View Report](https://audits.sherlock.xyz/contests/1176) |
+| 6 | June 2025 | DODO Cross-Chain DEX | Cross-Chain Swaps | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) |[1H](https://audits.sherlock.xyz/contests/991/voting/358) | Solidity | 1,632 | [View Report](https://audits.sherlock.xyz/contests/991) |
+| 7 | April 2025 | Aegis YUSD | Stablecoin Protocol | [#4](https://audits.sherlock.xyz/contests/799/leaderboard) |[1H](https://audits.sherlock.xyz/contests/1176/voting/137) | Solidity | 923 | [View Report](https://audits.sherlock.xyz/contests/799) |
 
 ---
 
