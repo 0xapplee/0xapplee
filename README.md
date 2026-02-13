@@ -30,7 +30,7 @@ Email: 0xapplee@gmail.com
 ## 🕵️ Audit Contests – Findings Overview
 
 | # | Date | Protocol | Category of Protocol | Rank | Language | nSloc |Link to Findings |
-|---|------|----------|----------------------|------|----------------------|----------|--------|-----------------|
+|---|------|----------|----------------------|------|----------------------|----------|-----------------|
 | 1 | July 2025 | Mellow Flexible Vaults | ERC4626 Vaults | [#9](https://audits.sherlock.xyz/contests/964/leaderboard) |  Solidity | 2,756 | [View Report](https://audits.sherlock.xyz/contests/964) |
 | 2 | July 2025 | Symbiotic Relay | Governance System | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) | Solidity | 4,345 | [View Report](https://audits.sherlock.xyz/contests/967) |
 | 3 | August 2025 | Malda | Bridge & Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) | Solidity | 3,851 |[View Report](https://audits.sherlock.xyz/contests/1029) |
