@@ -37,7 +37,7 @@ Email: 0xapplee@gmail.com
 | 4 |  Symbiotic Relay | Governance System | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) | Solidity | 4,345 | [View Report](https://audits.sherlock.xyz/contests/967) |
 | 5 | Ammplify | Liquidity Trees & Routing | [#22](https://audits.sherlock.xyz/contests/1054/leaderboard) | Solidity | 2,949 | [View Report](https://audits.sherlock.xyz/contests/1054) |
 | 6  | Malda | Bridge & Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) | Solidity | 3,851 |[View Report](https://audits.sherlock.xyz/contests/1029) |
-| 7 | SukukFi | Vault | [#22](https://code4rena.com/audits/2025-11-sukukfi) | Solidity | 1,670 | [View Report](https://code4rena.com/audits/2025-11-sukukfi) |
+| 7 | SukukFi | ERC7575 Vault | [#22](https://code4rena.com/audits/2025-11-sukukfi) | Solidity | 1,670 | [View Report](https://code4rena.com/audits/2025-11-sukukfi) |
 | 8 |  DODO Cross-Chain DEX | Cross-Chain Swaps | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) | Solidity | 1,632 | [View Report](https://audits.sherlock.xyz/contests/991) |
 ---
 
