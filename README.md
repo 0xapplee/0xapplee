@@ -33,11 +33,10 @@ Email: 0xapplee@gmail.com
 |---|----------|----------------------|------|----------------------|----------|-----------------|
 | 1 | Aegis YUSD | Stablecoin Protocol | [#4](https://audits.sherlock.xyz/contests/799/leaderboard) | Solidity | 923 | [View Report](https://audits.sherlock.xyz/contests/799) |
 | 2 | Mellow Flexible Vaults | ERC4626 Vaults | [#9](https://audits.sherlock.xyz/contests/964/leaderboard) |  Solidity | 2,756 | [View Report](https://audits.sherlock.xyz/contests/964) |
-| 3 | DODO Cross-Chain DEX | Cross-Chain Swaps | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) | Solidity | 1,632 | [View Report](https://audits.sherlock.xyz/contests/991) |
-| 4 |  Summer.fi Governance V2 | Staking & Governance | [#8](https://audits.sherlock.xyz/contests/1176/leaderboard) | Solidity | 1,532 | [View Report](https://audits.sherlock.xyz/contests/1176) |
+| 3 | Summer.fi Governance V2 | Staking & Governance | [#8](https://audits.sherlock.xyz/contests/1176/leaderboard) | Solidity | 1,532 | [View Report](https://audits.sherlock.xyz/contests/1176) |
+| 4 |  Symbiotic Relay | Governance System | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) | Solidity | 4,345 | [View Report](https://audits.sherlock.xyz/contests/967) |
 | 5 | Ammplify | Liquidity Trees & Routing | [#22](https://audits.sherlock.xyz/contests/1054/leaderboard) | Solidity | 2,949 | [View Report](https://audits.sherlock.xyz/contests/1054) |
-| 6  | Symbiotic Relay | Governance System | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) | Solidity | 4,345 | [View Report](https://audits.sherlock.xyz/contests/967) |
-| 7 |   Malda | Bridge & Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) | Solidity | 3,851 |[View Report](https://audits.sherlock.xyz/contests/1029) |
-
+| 6  | Malda | Bridge & Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) | Solidity | 3,851 |[View Report](https://audits.sherlock.xyz/contests/1029) |
+| 7 |  DODO Cross-Chain DEX | Cross-Chain Swaps | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) | Solidity | 1,632 | [View Report](https://audits.sherlock.xyz/contests/991) |
 ---
 
