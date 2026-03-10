@@ -23,7 +23,7 @@ Email: 0xapplee@gmail.com
 | 3 | Nov 2025 | Vault Strategy | 649 | 1 High, 5 Medium, 4 Low | Solidity | Private (NDA) |
 
 
----
+
 
 ## Contest-Based Audits – Sherlock
 
