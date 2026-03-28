@@ -39,5 +39,9 @@ Email: 0xapplee@gmail.com
 | 6  | Malda | Bridge & Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) | Solidity | 3,851 |[View Report](https://audits.sherlock.xyz/contests/1029) |
 | 7 | SukukFi | ERC7575 Vault | [#22](https://code4rena.com/audits/2025-11-sukukfi) | Solidity | 1,670 | [View Report](https://code4rena.com/audits/2025-11-sukukfi) |
 | 8 |  DODO Cross-Chain DEX | Cross-Chain Swaps | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) | Solidity | 1,632 | [View Report](https://audits.sherlock.xyz/contests/991) |
+| 9 |  Flying Tulip | Put Option | Contest had no valid findings | Solidity | 1,648 | [View Report](https://audits.sherlock.xyz/contests/1223) |
+| 10 |  OpenCover | ERC4626 Vaults | Contest had no valid findings | Solidity | 614 | [View Report](https://audits.sherlock.xyz/contests/1222) |
+| 11 |  Covenant | DEX | Contest had no valid findings | Solidity | 2,281 | [View Report](https://code4rena.com/audits/2025-10-covenant) |
+| 12 |  Debank | DEX | Contest had no valid findings | Solidity | 1,632 | [View Report](https://audits.sherlock.xyz/contests/1044) |
 ---
 
