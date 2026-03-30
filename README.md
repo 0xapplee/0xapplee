@@ -40,15 +40,16 @@ I specialize in manual code reviews, invariant testing, and uncovering high-impa
 |---|----------|----------|------|-------|----------|
 | 1 | Aegis YUSD | Stablecoin | [#4](https://audits.sherlock.xyz/contests/799/leaderboard) | 923 | [View Findings](https://audits.sherlock.xyz/contests/799) |
 | 2 | Mellow Flexible Vaults | ERC4626 Vault | [#9](https://audits.sherlock.xyz/contests/964/leaderboard) | 2,756 | [View Findings](https://audits.sherlock.xyz/contests/964) |
-| 3 | Summer.fi Governance V2 | Governance | [#8](https://audits.sherlock.xyz/contests/1176/leaderboard) | 1,532 | [View Findings](https://audits.sherlock.xyz/contests/1176) |
-| 4 | Symbiotic Relay | Governance | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) | 4,345 | [View Findings](https://audits.sherlock.xyz/contests/967) |
-| 5 | Ammplify | Liquidity Routing | [#22](https://audits.sherlock.xyz/contests/1054/leaderboard) | 2,949 | [View Findings](https://audits.sherlock.xyz/contests/1054) |
-| 6 | Malda | Bridge / Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) | 3,851 | [View Findings](https://audits.sherlock.xyz/contests/1029) |
-| 7 | SukukFi | ERC7575 Vault | [#22](https://code4rena.com/audits/2025-11-sukukfi) | 1,670 | [View Findings](https://code4rena.com/audits/2025-11-sukukfi) |
-| 8 | DODO Cross-Chain DEX | Cross-chain DEX | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) | 1,632 | [View Findings](https://audits.sherlock.xyz/contests/991) |
-| 9 | Flying Tulip | Options Protocol | — | 1,648 | No valid findings |
-| 10 | OpenCover | ERC4626 Vault | — | 614 | No valid findings |
-| 11 | Covenant | DEX | — | 2,281 | No valid findings |
-| 12 | Debank | DEX | — | 1,632 | No valid findings |
+| 3 | Intuition | VE-tokenomics | [#6](https://code4rena.com/audits/2026-03-intuition) | 844 | [View Findings](https://code4rena.com/audits/2026-03-intuition) |
+| 4 | Summer.fi Governance V2 | Governance | [#8](https://audits.sherlock.xyz/contests/1176/leaderboard) | 1,532 | [View Findings](https://audits.sherlock.xyz/contests/1176) |
+| 5 | Symbiotic Relay | Governance | [#10](https://audits.sherlock.xyz/contests/967/leaderboard) | 4,345 | [View Findings](https://audits.sherlock.xyz/contests/967) |
+| 6 | Ammplify | Liquidity Routing | [#22](https://audits.sherlock.xyz/contests/1054/leaderboard) | 2,949 | [View Findings](https://audits.sherlock.xyz/contests/1054) |
+| 7 | Malda | Bridge / Rebalancing | [#23](https://audits.sherlock.xyz/contests/1029/leaderboard) | 3,851 | [View Findings](https://audits.sherlock.xyz/contests/1029) |
+| 8 | SukukFi | ERC7575 Vault | [#22](https://code4rena.com/audits/2025-11-sukukfi) | 1,670 | [View Findings](https://code4rena.com/audits/2025-11-sukukfi) |
+| 9 | DODO Cross-Chain DEX | Cross-chain DEX | [#30](https://audits.sherlock.xyz/contests/991/leaderboard) | 1,632 | [View Findings](https://audits.sherlock.xyz/contests/991) |
+| 10 | Flying Tulip | Options Protocol | — | 1,648 | No valid findings |
+| 11 | OpenCover | ERC4626 Vault | — | 614 | No valid findings |
+| 12 | Covenant | DEX | — | 2,281 | No valid findings |
+| 13 | Debank | DEX | — | 1,632 | No valid findings |
 
 ---
