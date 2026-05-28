@@ -24,6 +24,14 @@ I specialize in manual code reviews, invariant testing, and uncovering high-impa
 
 ---
 
+## 🔒 Collaborative Audits
+
+Project | Discription | Platform | 
+------|---------------|---------------|
+Tenor | Non-custodial platform for borrowing and lending onchain. It builds on the Morpho protocol and extends it with modular smart contract features  | Sherlock Collaborative Audit
+
+---
+
 ## 🔒 Private Audit Engagements
 
 | # | Date | Protocol Type | Scope (nSLOC) | Findings | Language | Report |
