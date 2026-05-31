@@ -1,38 +1,28 @@
-# Hello, I'm 0xApple 👋
+### About Me
 
 Independent Smart Contract Security Researcher focused on Solidity auditing and DeFi protocol security.
 
 I specialize in manual code reviews, invariant testing, and uncovering high-impact vulnerabilities in production-grade systems. My experience spans governance and voting mechanisms, ERC4626 vaults, yield strategies, cross-chain bridges, staking and reward distribution systems, AMMs, intent-based execution, stablecoin accounting, and derivatives protocols.
 
-🛠 **Tooling:** Foundry • Hardhat • Slither • Echidna  
+For private audits, please contact me on Twitter ([@0xapple_](https://x.com/0xapple_)).
 
----
-
-## 📬 Connect
-
-- X (Twitter): [@0xapple_](https://x.com/0xapple_)  
-- Sherlock: https://sherlock.xyz/profile/0xapple  
-- Email: 0xapplee@gmail.com  
-
----
-
-## 📊 Findings Summary
+### Findings Summary
 
 | Severity | Critical | High | Medium | Low | Total |
 |----------|----------|------|--------|-----|-------|
 | Count    | 2        | 11   | 23     | 22  | 57    |
 
----
 
-## 🔒 Collaborative Audits
+
+### Collaborative Audits
 
 Project | Discription | Platform | 
 ------|---------------|---------------|
 Tenor | Non-custodial platform for borrowing and lending onchain. It builds on the Morpho protocol and extends it with modular smart contract features  | Sherlock Collaborative Audit
 
----
 
-## 🔒 Private Audit Engagements
+
+### Private Audit Engagements
 
 | # | Date | Protocol Type | Scope (nSLOC) | Findings | Language | Report |
 |---|------|---------------|---------------|----------|----------|--------|
@@ -40,9 +30,8 @@ Tenor | Non-custodial platform for borrowing and lending onchain. It builds on t
 | 2 | Dec 2025 | Staking / Rewards | 1112 | 2 Critical, 3 High, 6 Medium, 11 Low | Solidity | Private (NDA) |
 | 3 | Nov 2025 | Vault Strategy | 649 | 1 High, 5 Medium, 4 Low | Solidity | Private (NDA) |
 
----
 
-## 🕵️ Audit Contests
+### Audit Contests
 
 | # | Protocol | Category | Rank | nSLOC | Findings |
 |---|----------|----------|------|-------|----------|
