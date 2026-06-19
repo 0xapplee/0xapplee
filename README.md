@@ -10,7 +10,7 @@ For private audits, please contact me on Twitter ([@0xapple_](https://x.com/0xap
 
 | Severity | Critical | High | Medium | Low | Total |
 |----------|----------|------|--------|-----|-------|
-| Count    | 2        | 11   | 23     | 22  | 57    |
+| Count    | 2        | 11   | 24     | 30  | 67    |
 
 
 
