@@ -18,7 +18,7 @@ For private audits, please contact me on Twitter ([@0xapple_](https://x.com/0xap
 
 Project | Description | Platform | 
 ------|---------------|---------------|
-Tenor | Non-custodial platform for borrowing and lending onchain. It builds on the Morpho protocol and extends it with modular smart contract features  | Sherlock Collaborative Audit
+Tenor | Non-custodial platform for borrowing and lending onchain. It builds on the Morpho protocol and extends it with modular smart contract features  | Blackthorn
 
 
 
