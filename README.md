@@ -14,11 +14,12 @@ For private audits, please contact me on Twitter ([@0xapple_](https://x.com/0xap
 
 
 
-### Collaborative Audits
+### Firm Audits
 
 Project | Description | Platform | 
 ------|---------------|---------------|
-Tenor | Non-custodial platform for borrowing and lending onchain. It builds on the Morpho protocol and extends it with modular smart contract features  | Blackthorn
+[Tenor](https://docs.tenor.finance/get-started/overview) | Fixed-rate, fixed-term borrowing and lending platform built on Morpho  | Blackthorn
+[Buoy](https://docs.buoy.finance/) | Vault platform on Hyperliquid using ERC-7540-style async request/settle deposits and withdrawals   | Shieldify
 
 
 
@@ -29,6 +30,8 @@ Tenor | Non-custodial platform for borrowing and lending onchain. It builds on t
 | 1 | Jan 2026 | Staking / Governance | 1317 | 3 High, 4 Medium, 7 Low | Solidity | [📄 Report](https://github.com/0xapplee/Audit-Reports/blob/main/AuditReport.md) |
 | 2 | Dec 2025 | Staking / Rewards | 1112 | 2 Critical, 3 High, 6 Medium, 11 Low | Solidity | Private (NDA) |
 | 3 | Nov 2025 | Vault Strategy | 649 | 1 High, 5 Medium, 4 Low | Solidity | Private (NDA) |
+| 4 | Jul 2025 | Uniswap V4 Fork | 1220 | 2 Critical, 3 High, 4 Medium, 8 Low | Solidity | Private (NDA) |
+| 5 | Aug 2025 | Liquity V2 Fork | 1519 | 5 High, 3 Medium, 9 Low | Solidity | Private (NDA) |
 
 
 ### Audit Contests
