@@ -6,14 +6,6 @@ I specialize in manual code reviews, invariant testing, and uncovering high-impa
 
 For private audits, please contact me on Twitter ([@0xapple_](https://x.com/0xapple_)).
 
-### Findings Summary
-
-| Severity | Critical | High | Medium | Low | Total |
-|----------|----------|------|--------|-----|-------|
-| Count    | 2        | 11   | 24     | 30  | 67    |
-
-
-
 ### Firm Audits
 
 Project | Description | Platform | 
