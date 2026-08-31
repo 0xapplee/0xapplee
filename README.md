@@ -8,10 +8,10 @@ For private audits, please contact me on Twitter ([@0xapple_](https://x.com/0xap
 
 ### Firm Audits
 
-Project | Description | Platform | 
-------|---------------|---------------|
-[Tenor](https://docs.tenor.finance/get-started/overview) | Fixed-rate, fixed-term borrowing and lending platform built on Morpho  | Blackthorn
-[Buoy](https://docs.buoy.finance/) | Vault platform on Hyperliquid using ERC-7540-style async request/settle deposits and withdrawals   | Shieldify
+Project | Description | Platform | Report
+------|---------------|---------------| ------ |
+[Tenor](https://docs.tenor.finance/get-started/overview) | Fixed-rate, fixed-term borrowing and lending platform built on Morpho  | Blackthorn | [📄](https://github.com/tenor-labs/tenor-contracts/blob/main/audits/2026-06-Blackthorn-review.pdf)
+[Buoy](https://docs.buoy.finance/) | Vault platform on Hyperliquid using ERC-7540-style async request/settle deposits and withdrawals   | Shieldify | Report soon
 
 
 
