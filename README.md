@@ -20,8 +20,8 @@ Project | Description | Platform | Report
 | # | Date | Protocol Type | Scope (nSLOC) | Findings | Language | Report |
 |---|------|---------------|---------------|----------|----------|--------|
 | 1 | Aug 2026 | Liquity V2 Fork | 1519 | 5 High, 3 Medium, 9 Low | Solidity | Private (NDA) |
-| 2 | Jul 2026 | Uniswap V4 Fork | 1220 | 2 Critical, 3 High, 4 Medium, 8 Low | Solidity | [📄](http://github.com/0xapplee/Audit-Reports/blob/main/Archie.md) |
-| 3 | Jan 2026 | Staking / Governance | 1317 | 3 High, 4 Medium, 7 Low | Solidity | [📄](https://github.com/0xapplee/Audit-Reports/blob/main/Staking-Governance.md) |
+| 2 | Jul 2026 | Uniswap V4 Fork | 1220 | 2 Critical, 3 High, 4 Medium, 8 Low | Solidity | Soon |
+| 3 | Jan 2026 | Staking / Governance | 1317 | 3 High, 4 Medium, 7 Low | Solidity | Soon |
 | 4 | Dec 2025 | Staking / Rewards | 1112 | 2 Critical, 3 High, 6 Medium, 11 Low | Solidity | Private (NDA) |
 | 5 | Nov 2025 | Vault Strategy | 649 | 1 High, 5 Medium, 4 Low | Solidity | Private (NDA) |
 
