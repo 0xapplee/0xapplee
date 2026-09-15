@@ -32,7 +32,7 @@ Project | Description | Platform | Report
 | # | Protocol | Category | Rank | nSLOC | Findings |
 |---|----------|----------|------|-------|----------|
 | 1 | Intuition |Bonding Curves / Epoch-Based Reward / ERC-4337 | [#4](https://code4rena.com/audits/2026-03-intuition) | 844 | [View Findings](https://code4rena.com/audits/2026-03-intuition) |
-| 2 | Chainlink Payment Abstraction V2 | Dutch Auction / ChainLink CRE | [#4](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) | 1,060 | [View Findings](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) |
+| 2 | Chainlink Payment Abstraction V2 | Dutch Auction / ChainLink CRE | [#5](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) | 1,060 | [View Findings](https://code4rena.com/audits/2026-03-chainlink-payment-abstraction-v2) |
 | 3 | Aegis YUSD | Stablecoin | [#4](https://audits.sherlock.xyz/contests/799/leaderboard) | 923 | [View Findings](https://audits.sherlock.xyz/contests/799) |
 | 4 | Summer.fi Governance V2 | Staking / Governance | [#8](https://audits.sherlock.xyz/contests/1176/leaderboard) | 1,532 | [View Findings](https://audits.sherlock.xyz/contests/1176) |
 | 5 | Mellow Flexible Vaults | ERC4626 Vault | [#9](https://audits.sherlock.xyz/contests/964/leaderboard) | 2,756 | [View Findings](https://audits.sherlock.xyz/contests/964) |
