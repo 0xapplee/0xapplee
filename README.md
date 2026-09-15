@@ -4,7 +4,7 @@ Independent Smart Contract Security Researcher focused on Solidity auditing and 
 
 I specialize in manual code reviews, invariant testing, and uncovering high-impact vulnerabilities in production-grade systems. My experience spans governance and voting mechanisms, ERC4626 vaults, yield strategies, cross-chain bridges, staking and reward distribution systems, AMMs, intent-based execution, stablecoin accounting, and derivatives protocols.
 
-For private audits, please contact me on Twitter ([@0xapple_](https://x.com/0xapple_)).
+For audits, please contact me on Twitter ([@0xapple_](https://x.com/0xapple_)) or Telegram ([@apple_audits](https://t.me/apple_audits)).
 
 ### Firm Audits
 
