@@ -14,6 +14,10 @@ Project | Description | Platform | Report
 [Buoy](https://docs.buoy.finance/) | Vault platform on **Hyperliquid** using ERC-7540-style async request/settle deposits and withdrawals   | Shieldify | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Buoy-Security-Review.pdf)
 [Pare](https://parestocks.com/docs) | Split's Stock into a principal and a yield token on **Robinhood** chain   | Pashov Audit Group| [📄](https://parestocks.com/pare-security-review-pashov-2026-09.pdf)
 [Pare](https://parestocks.com/docs) | Audit of DividendLP, a Uniswap V3-based PT/YT liquidity module    | Pashov Audit Group | Soon
+[Pare](https://parestocks.com/docs) | Pendle-style protocol audit that splits yield-bearing tokens into fixed-rate and floating-yield tokens    | Pashov Audit Group | Soon
+
+
+
 
 
 
