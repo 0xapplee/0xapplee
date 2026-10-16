@@ -11,10 +11,11 @@ For audits, please contact me on Twitter ([@0xapple_](https://x.com/0xapple_)) o
 Project | Description | Platform | Report
 ------|---------------|---------------| ------ |
 [Tenor](https://docs.tenor.finance/get-started/overview) | Fixed-rate, fixed-term borrowing and lending platform built on Morpho  | Blackthorn | [📄](https://github.com/tenor-labs/tenor-contracts/blob/main/audits/2026-06-Blackthorn-review.pdf)
+[Lista DAO](https://docs.bsc.lista.org/for-developer/lista-lending) | Lending protocol integrating with Uniswap V3 and Morpho, deployed on BNB Smart Chain and Ethereum  | Bailsec | Soon
 [Buoy](https://docs.buoy.finance/) | Vault platform on **Hyperliquid** using ERC-7540-style async request/settle deposits and withdrawals   | Shieldify | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Buoy-Security-Review.pdf)
-[Pare](https://parestocks.com/docs) | Split's Stock into a principal and a yield token on **Robinhood** chain   | Pashov Audit Group| [📄](https://parestocks.com/pare-security-review-pashov-2026-09.pdf)
-[Pare](https://parestocks.com/docs) | Audit of DividendLP, a Uniswap V3-based PT/YT liquidity module    | Pashov Audit Group | Soon
-[Pare](https://parestocks.com/docs) | Pendle-style protocol audit that splits yield-bearing tokens into fixed-rate and floating-yield tokens    | Pashov Audit Group | Soon
+[Pare](https://parestocks.com/docs) | Tokenized-stock protocol on Robinhood Chain with principal/yield tokens and dividend accounting | Pashov Audit Group| [📄](https://parestocks.com/pare-security-review-pashov-2026-09.pdf)
+[Pare](https://parestocks.com/docs) | Uniswap V3-based liquidity module for principal tokens | Pashov Audit Group | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-28.pdf)
+[Pare](https://parestocks.com/docs) | Yield-tokenization vaults integrating Uniswap V4 and oracle adapters  | Pashov Audit Group | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-10-01.pdf)
 
 
 
