@@ -9,7 +9,7 @@ For audits, please contact me on Twitter ([@0xapple_](https://x.com/0xapple_)) o
 Project | Description | Platform | Report
 -------------|---------------|---------------| ------ |
 [Tenor](https://docs.tenor.finance/get-started/overview) | Fixed-rate, fixed-term borrowing and lending platform built on Morpho  | Blackthorn | [📄](https://github.com/tenor-labs/tenor-contracts/blob/main/audits/2026-06-Blackthorn-review.pdf)
-[BGDLabs](https://bgdlabs.com) | Lending protocol with an ERC-4626-based liquidity token supplying assets to multiple debt engines | Sherlock | Soon   |
+[BGDLabs](https://bgdlabs.com) | Lending protocol with an ERC-4626-based liquidity token supplying assets to multiple debt engines | Sherlock | Private   |
 [ListaDAO](https://docs.bsc.lista.org/for-developer/lista-lending) | Lending protocol integrating with Uniswap V3 and Morpho, deployed on BNB Smart Chain and Ethereum  | Bailsec | [📄](https://github.com/lista-dao/moolah/blob/master/docs/audits/Bailsec-V3-Collateral-20261018.pdf)
 [Predict.fun](https://docs.predict.fun/) | Prediction market platform on BNB Chain | Bailsec | Soon   |
 [Buoy](https://docs.buoy.finance/) | Vault platform on **Hyperliquid** using ERC-7540-style async request/settle deposits and withdrawals   | Shieldify | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Buoy-Security-Review.pdf)
